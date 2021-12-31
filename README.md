@@ -5,7 +5,7 @@ I have tried to develop these games beyond the assignment requirements.
 Here are the features that I added since submission:
 - Power Ups
   - Multi-ball
-  - Key
+  - Key (Unlocks Special Bricks)
   - Slow Ball
   - Fast Ball
   - Grow Ball
